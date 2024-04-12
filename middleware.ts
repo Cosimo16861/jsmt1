@@ -9,6 +9,7 @@ export default authMiddleware({
     "/api/uploadthing",
     "/favicon.ico",
     "/assets/images/logo.svg",
+    "/assets/images/hero.png",
   ],
   ignoredRoutes: [
     "/api/webhook/clerk",
